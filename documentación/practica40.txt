@@ -1,0 +1,6 @@
+* Agrega una sección con la etiqueta <header> en el proyecto.
+* Revisa que las etiquetas <a> contengan el atributo rel adecuado (rel="noopener", rel="nofollow", etc.) según el contexto y la relación con el contenido enlazado.
+* Incluye la meta tag robots para indicar a los motores de búsqueda cómo deben interactuar con la página (<meta name="robots" content="index, follow"> o 
+  <meta name="robots" content="noindex, nofollow">).
+* Añade una meta tag keywords con palabras clave relevantes para la página (<meta name="keywords" content="palabra clave 1, palabra clave 2, palabra clave 3">). 
+  Asegúrate de que las palabras clave sean específicas y reflejen el contenido de la página.
