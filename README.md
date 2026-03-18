@@ -60,19 +60,22 @@ El desarrollo se realizó utilizando:
 
 ## ▶️ Cómo correr el proyecto
 Para ejecutarlo localmente:
-  <div background='grey'>
-    <p><i>    #Clonar el repositorio
-    <br>
-    <b>    git</b> clone <a>https://github.com/adnalotrebla741202/ebac-cuarto_proyecto.git</a></i></p>
-
-    <p><i>    #Entrar al proyecto
-    <br>
-    <b>    cd</b> ebac-cuarto_proyecto</i></p>
-
-    <i># Abrir en navegador</i>
-    <br>
-    <i>open index.html</i>
-    <br><br>
+  <div>
+    <p>
+      <i>
+        &nbsp;&nbsp;&nbsp;&nbsp;#Clonar el repositorio
+        <br>
+        <b>&nbsp;&nbsp;&nbsp;&nbsp;git</b> clone <a>https://github.com/adnalotrebla741202/ebac-cuarto_proyecto.git</a>
+        <br><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;#Entrar al proyecto
+        <br>
+        <b>&nbsp;&nbsp;&nbsp;&nbsp;cd</b> ebac-cuarto_proyecto
+        <br><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;#Abrir en navegador
+        <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;open index.html
+      </i>
+    </p>
   </div>
   O simplemente abre el archivo <b>index.html</b> en tu navegador.
 
