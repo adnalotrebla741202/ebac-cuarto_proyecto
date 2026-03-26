@@ -84,7 +84,7 @@ Para ejecutarlo localmente:
 <h2>🌐 Deploy</h2>
 Puedes ver el proyecto en producción aquí:
 <br><br>
-👉 <a href="https://ebac-practica41.netlify.app" target="_blank">https://ebac-practica41.netlify.app</a>
+👉 <a target="_blank" href="https://ebac-practica41.netlify.app">https://ebac-practica41.netlify.app</a>
 
 ---
 
